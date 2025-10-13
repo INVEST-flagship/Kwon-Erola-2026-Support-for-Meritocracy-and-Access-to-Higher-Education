@@ -1,7 +1,7 @@
 # Support for Meritocracy and Access to Higher Education
 ## A code repository for the statistical analyses
 
-Kwon, Hye Won and Jani Erola
+Hye Won Kwon and Jani Erola
 
 DOI here
 
