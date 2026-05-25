@@ -1,4 +1,4 @@
-# Support for Meritocracy and Access to Higher Education
+# Access to Higher Education and Support for Meritocracy: Education, Skill, and Effort as Merit
 ## A code repository for the statistical analyses
 
 Hye Won Kwon and Jani Erola
