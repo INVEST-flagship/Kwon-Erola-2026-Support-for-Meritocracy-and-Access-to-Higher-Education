@@ -3,7 +3,6 @@
 
 Hye Won Kwon and Jani Erola
 
-[![DOI](https://zenodo.org/badge/1075192420.svg)](https://doi.org/10.5281/zenodo.17338096)
 
 
 
@@ -27,7 +26,7 @@ The main survey data, the ISSP 2009 (International Social Survey Programme; ZA54
 Meritocracy, education, equality
 
 ## Cite as
-Kwon, H.W. & Erola, J. (2026). Code repository for: Support for Meritocracy and Access to Higher Education. Zenodo. https://zenodo.org/records/20374337
+Kwon, H.W. & Erola, J. (2026). Code repository for: Support for Meritocracy and Access to Higher Education. Zenodo. 
 
 
 ## License
