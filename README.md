@@ -25,7 +25,7 @@ The main survey data, the ISSP 2009 (International Social Survey Programme; ZA54
 Support for meritocracy, higher education, access to tertiary education
 
 ## Cite as
-Also, could you also update the citation: Kwon, H.W. & Erola, J. (2026). Code repository for: Access to Higher Education and Support for Meritocracy: Education, Skill, and Effort as Merit. Zenodo.
+Also, could you also update the citation: Kwon, H.W. & Erola, J. (2026). Code repository for: Access to Higher Education and Support for Meritocracy: Education, Skill, and Effort as Merit. Zenodo. https://zenodo.org/records/20393885
 
 
 ## License
