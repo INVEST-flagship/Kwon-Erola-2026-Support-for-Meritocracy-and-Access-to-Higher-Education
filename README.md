@@ -3,6 +3,7 @@
 
 Hye Won Kwon and Jani Erola
 
+[![DOI](https://zenodo.org/badge/1075192420.svg)](https://doi.org/10.5281/zenodo.17338096)
 
 ## Description
 
